@@ -1,96 +1,13 @@
 {
-  "Allergens Legend": [
-    {
-      "name": "nan",
-      "name_fr": "nan",
-      "description": "",
-      "description_fr": "",
-      "price": null,
-      "image_prompt": "nan. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
-    },
-    {
-      "name": "nan",
-      "name_fr": "nan",
-      "description": "",
-      "description_fr": "",
-      "price": null,
-      "image_prompt": "nan. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
-    },
-    {
-      "name": "nan",
-      "name_fr": "nan",
-      "description": "",
-      "description_fr": "",
-      "price": null,
-      "image_prompt": "nan. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
-    },
-    {
-      "name": "nan",
-      "name_fr": "nan",
-      "description": "",
-      "description_fr": "",
-      "price": null,
-      "image_prompt": "nan. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
-    },
-    {
-      "name": "nan",
-      "name_fr": "nan",
-      "description": "",
-      "description_fr": "",
-      "price": null,
-      "image_prompt": "nan. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
-    },
-    {
-      "name": "nan",
-      "name_fr": "nan",
-      "description": "",
-      "description_fr": "",
-      "price": null,
-      "image_prompt": "nan. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
-    },
-    {
-      "name": "nan",
-      "name_fr": "nan",
-      "description": "",
-      "description_fr": "",
-      "price": null,
-      "image_prompt": "nan. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
-    },
-    {
-      "name": "nan",
-      "name_fr": "nan",
-      "description": "",
-      "description_fr": "",
-      "price": null,
-      "image_prompt": "nan. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
-    }
-  ],
-  "Entrées GOURMANDES": [
-    {
-      "name": "Garlic Butter Snails x6",
-      "name_fr": "Escargots au beurre d'ail x6",
-      "description": "",
-      "description_fr": "beurre à l’ail | persil | 6 pièces",
-      "price": 128.0,
-      "image_prompt": "Garlic Butter Snails x6. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
-    },
-    {
-      "name": "Grilled bone marrow",
-      "name_fr": "Os à moelle grillé",
-      "description": "",
-      "description_fr": "os à moelle rôti | fleur de sel | pain grillé",
-      "price": 158.0,
-      "image_prompt": "Grilled bone marrow. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
-    }
-  ],
-  "PETITS PLAISIRS": [
+  "Entrée": [
     {
       "name": "chicken Liver Parfait",
       "name_fr": "Parfait de foie de volaille",
       "description": "",
       "description_fr": "oignons | confiture de bacon | croustillant",
       "price": 148.0,
-      "image_prompt": "chicken Liver Parfait. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
+      "image_prompt": "chicken Liver Parfait —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?chicken+Liver+Parfait+french+food+bistro"
     },
     {
       "name": "Smoked Sardines",
@@ -98,17 +15,37 @@
       "description": "",
       "description_fr": "filets fumés | citron | pain grillé",
       "price": 158.0,
-      "image_prompt": "Smoked Sardines. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
+      "image_prompt": "Smoked Sardines —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?Smoked+Sardines+french+food+bistro"
+    },
+    {
+      "name": "Garlic Butter Snails x6",
+      "name_fr": "Escargots au beurre d'ail x6",
+      "description": "",
+      "description_fr": "beurre à l’ail | persil | 6 pièces",
+      "price": 128.0,
+      "image_prompt": "Garlic Butter Snails x6 —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?Garlic+Butter+Snails+x6+french+food+bistro"
+    },
+    {
+      "name": "Grilled bone marrow",
+      "name_fr": "Os à moelle grillé",
+      "description": "",
+      "description_fr": "os à moelle rôti | fleur de sel | pain grillé",
+      "price": 158.0,
+      "image_prompt": "Grilled bone marrow —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?Grilled+bone+marrow+french+food+bistro"
     }
   ],
-  "Pièces de résistance": [
+  "Plats": [
     {
       "name": "Grilled snapper",
       "name_fr": "Vivaneau grillé",
       "description": "",
       "description_fr": "poisson grillé | légumes de saison | citron",
       "price": 278.0,
-      "image_prompt": "Grilled snapper. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
+      "image_prompt": "Grilled snapper —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?Grilled+snapper+french+food+bistro"
     },
     {
       "name": "Duck Confit",
@@ -116,53 +53,17 @@
       "description": "",
       "description_fr": "cuisse confite | pommes grenaille | jus",
       "price": 288.0,
-      "image_prompt": "Duck Confit. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
-    }
-  ],
-  "accompagnements": [
-    {
-      "name": "French Fries",
-      "name_fr": "Frites",
-      "description": "",
-      "description_fr": "frites dorées | maison",
-      "price": 68.0,
-      "image_prompt": "French Fries. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
+      "image_prompt": "Duck Confit —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?Duck+Confit+french+food+bistro"
     },
-    {
-      "name": "Creamy Spinach",
-      "name_fr": "Épinards à la crème",
-      "description": "",
-      "description_fr": "épinards | crème",
-      "price": 78.0,
-      "image_prompt": "Creamy Spinach. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
-    }
-  ],
-  "desserts": [
-    {
-      "name": "Chocolate Mousse",
-      "name_fr": "Chocolate Mousse",
-      "description": "",
-      "description_fr": "",
-      "price": 128.0,
-      "image_prompt": "Chocolate Mousse. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
-    },
-    {
-      "name": "Crème Brûlée ",
-      "name_fr": "Crème Brûlée",
-      "description": "",
-      "description_fr": "",
-      "price": 108.0,
-      "image_prompt": "Crème Brûlée. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
-    }
-  ],
-  "les incontournables": [
     {
       "name": "Pork rack 250g",
       "name_fr": "Carré de porc 250g",
       "description": "",
       "description_fr": "purée à la truffe | jus réduit",
       "price": 388.0,
-      "image_prompt": "Pork rack 250g. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
+      "image_prompt": "Pork rack 250g —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?Pork+rack+250g+french+food+bistro"
     },
     {
       "name": "Whole “Mediterranean” Seabass",
@@ -170,7 +71,120 @@
       "description": "",
       "description_fr": "acqua pazza du chef | légumes grillés",
       "price": 688.0,
-      "image_prompt": "Whole “Mediterranean” Seabass. Parisian bistro plating, warm tungsten lighting, shallow depth of field, wooden table, vintage ambience, appetizing, professional food photography."
+      "image_prompt": "Whole “Mediterranean” Seabass —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?Whole+%E2%80%9CMediterranean%E2%80%9D+Seabass+french+food+bistro"
+    },
+    {
+      "name": "nan",
+      "name_fr": "nan",
+      "description": "",
+      "description_fr": "nan",
+      "price": null,
+      "image_prompt": "nan —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?nan+french+food+bistro"
+    },
+    {
+      "name": "nan",
+      "name_fr": "nan",
+      "description": "",
+      "description_fr": "nan",
+      "price": null,
+      "image_prompt": "nan —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?nan+french+food+bistro"
+    },
+    {
+      "name": "nan",
+      "name_fr": "nan",
+      "description": "",
+      "description_fr": "nan",
+      "price": null,
+      "image_prompt": "nan —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?nan+french+food+bistro"
+    },
+    {
+      "name": "nan",
+      "name_fr": "nan",
+      "description": "",
+      "description_fr": "nan",
+      "price": null,
+      "image_prompt": "nan —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?nan+french+food+bistro"
+    },
+    {
+      "name": "nan",
+      "name_fr": "nan",
+      "description": "",
+      "description_fr": "nan",
+      "price": null,
+      "image_prompt": "nan —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?nan+french+food+bistro"
+    },
+    {
+      "name": "nan",
+      "name_fr": "nan",
+      "description": "",
+      "description_fr": "nan",
+      "price": null,
+      "image_prompt": "nan —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?nan+french+food+bistro"
+    },
+    {
+      "name": "nan",
+      "name_fr": "nan",
+      "description": "",
+      "description_fr": "nan",
+      "price": null,
+      "image_prompt": "nan —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?nan+french+food+bistro"
+    },
+    {
+      "name": "nan",
+      "name_fr": "nan",
+      "description": "",
+      "description_fr": "nan",
+      "price": null,
+      "image_prompt": "nan —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?nan+french+food+bistro"
+    }
+  ],
+  "Accompagnement": [
+    {
+      "name": "French Fries",
+      "name_fr": "Frites",
+      "description": "",
+      "description_fr": "frites dorées | maison",
+      "price": 68.0,
+      "image_prompt": "French Fries —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?French+Fries+french+food+bistro"
+    },
+    {
+      "name": "Creamy Spinach",
+      "name_fr": "Épinards à la crème",
+      "description": "",
+      "description_fr": "épinards | crème",
+      "price": 78.0,
+      "image_prompt": "Creamy Spinach —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?Creamy+Spinach+french+food+bistro"
+    }
+  ],
+  "Dessert": [
+    {
+      "name": "Chocolate Mousse",
+      "name_fr": "nan",
+      "description": "",
+      "description_fr": "nan",
+      "price": 128.0,
+      "image_prompt": "Chocolate Mousse —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?Chocolate+Mousse+french+food+bistro"
+    },
+    {
+      "name": "Crème Brûlée",
+      "name_fr": "nan",
+      "description": "",
+      "description_fr": "nan",
+      "price": 108.0,
+      "image_prompt": "Crème Brûlée —  · Parisian bistro plating, warm tungsten light, wooden table, appetizing, professional food photo.",
+      "image_url": "https://source.unsplash.com/800x600/?Cr%C3%A8me+Br%C3%BBl%C3%A9e+french+food+bistro"
     }
   ]
 }
