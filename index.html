@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nissa La Bella · Bistro Menu</title>
+    <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      :root { --primary: #75000e; }
+      .primary { color: var(--primary); }
+      .border-primary { border-color: var(--primary); }
+      .bg-primary { background: var(--primary); }
+      .shadow-soft { box-shadow: 0 6px 18px rgba(0,0,0,.08); }
+    </style>
+  </head>
+  <body class="min-h-screen bg-[url('https://images.unsplash.com/photo-1529927066849-9a307e9f0f42?q=80&w=1470&auto=format&fit=crop')] bg-cover bg-center">
+    <div id="root"></div>
+    <script type="text/babel" src="app.js"></script>
+  </body>
+</html>
